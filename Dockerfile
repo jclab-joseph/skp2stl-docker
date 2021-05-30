@@ -7,7 +7,4 @@ RUN "C:\\vc_redist.x64.exe" /install /passive /norestart
 
 COPY [ "program", "C:/program/" ]
 
-ADD "empty-card.skp" "C:/"
-
-
 
